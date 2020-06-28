@@ -17,6 +17,7 @@ bionic          amd64         deluge                      deluge-common         
 bionic          arm64         deluge                      deluge-common                   2.0.3          deluge-common_2.0.3-1build1_all.deb                      947c586c6bea35796bd01e42237da055        
 bionic          armhf         deluge                      deluge-common                   2.0.3          deluge-common_2.0.3-1build1_all.deb                      947c586c6bea35796bd01e42237da055        
 buster          arm64         deluge                      deluge-common                   2.0.3          deluge-common_2.0.3-1build1_all.deb                      c2303974ffdae94632f97a7bb76e481c        
+focal           amd64         deluge                      deluge-common                   2.0.3          deluge-common_2.0.3-1build1_all.deb                      f3e865c43f3dd0d282822bc368145a51        
 stretch         amd64         deluge                      deluge-common                   2.0.3          deluge-common_2.0.3-1build1_all.deb                      5059665f17586e517b9820bf25e6e967        
 stretch         arm64         deluge                      deluge-common                   2.0.3          deluge-common_2.0.3-1build1_all.deb                      e3f3cf436cf06dca2d96fd0343f32a4c        
 stretch         armhf         deluge                      deluge-common                   2.0.3          deluge-common_2.0.3-1build1_all.deb                      5059665f17586e517b9820bf25e6e967        
@@ -41,6 +42,7 @@ bionic          amd64         deluge                      deluge-console        
 bionic          arm64         deluge                      deluge-console                  2.0.3          deluge-console_2.0.3-1build1_all.deb                     4871b484bfd86f2c5345e446887f3503        
 bionic          armhf         deluge                      deluge-console                  2.0.3          deluge-console_2.0.3-1build1_all.deb                     4871b484bfd86f2c5345e446887f3503        
 buster          arm64         deluge                      deluge-console                  2.0.3          deluge-console_2.0.3-1build1_all.deb                     99e3f3dfab7ce8f7cad7c060315c7e19        
+focal           amd64         deluge                      deluge-console                  2.0.3          deluge-console_2.0.3-1build1_all.deb                     4eb31e320d22735a52b30e53af8c44d3        
 stretch         amd64         deluge                      deluge-console                  2.0.3          deluge-console_2.0.3-1build1_all.deb                     45a02122c342faa8c30af29bd45d1a4d        
 stretch         arm64         deluge                      deluge-console                  2.0.3          deluge-console_2.0.3-1build1_all.deb                     778f3a468e778d9c0a0e46fb7250bb8f        
 stretch         armhf         deluge                      deluge-console                  2.0.3          deluge-console_2.0.3-1build1_all.deb                     45a02122c342faa8c30af29bd45d1a4d        
@@ -65,6 +67,7 @@ bionic          amd64         deluge                      deluge-gtk            
 bionic          arm64         deluge                      deluge-gtk                      2.0.3          deluge-gtk_2.0.3-1build1_all.deb                         1843b8b0b1d08f6a356c1bdeb2884e47        
 bionic          armhf         deluge                      deluge-gtk                      2.0.3          deluge-gtk_2.0.3-1build1_all.deb                         1843b8b0b1d08f6a356c1bdeb2884e47        
 buster          arm64         deluge                      deluge-gtk                      2.0.3          deluge-gtk_2.0.3-1build1_all.deb                         fab946fa82496710cd19341298d4cb93        
+focal           amd64         deluge                      deluge-gtk                      2.0.3          deluge-gtk_2.0.3-1build1_all.deb                         47d06f1cfc4fd50126161bf4e820c5a1        
 stretch         amd64         deluge                      deluge-gtk                      2.0.3          deluge-gtk_2.0.3-1build1_all.deb                         208815efc81b68af9f378d437fbffd56        
 stretch         arm64         deluge                      deluge-gtk                      2.0.3          deluge-gtk_2.0.3-1build1_all.deb                         162926d957d54fdfb0f11494bd281411        
 stretch         armhf         deluge                      deluge-gtk                      2.0.3          deluge-gtk_2.0.3-1build1_all.deb                         208815efc81b68af9f378d437fbffd56        
@@ -105,6 +108,7 @@ bionic          amd64         deluge                      deluge-web            
 bionic          arm64         deluge                      deluge-web                      2.0.3          deluge-web_2.0.3-1build1_all.deb                         c801159107daf1afa6200c47d2daace3        
 bionic          armhf         deluge                      deluge-web                      2.0.3          deluge-web_2.0.3-1build1_all.deb                         c801159107daf1afa6200c47d2daace3        
 buster          arm64         deluge                      deluge-web                      2.0.3          deluge-web_2.0.3-1build1_all.deb                         d4cd645d75d0584676442327161002a8        
+focal           amd64         deluge                      deluge-web                      2.0.3          deluge-web_2.0.3-1build1_all.deb                         fe2611324a9759cc8483e0ddf4217489        
 stretch         amd64         deluge                      deluge-web                      2.0.3          deluge-web_2.0.3-1build1_all.deb                         270209047829b84a674ad71f52ff2bb1        
 stretch         arm64         deluge                      deluge-web                      2.0.3          deluge-web_2.0.3-1build1_all.deb                         5b78c9c77bef7b53b3355dd5fee0fc55        
 stretch         armhf         deluge                      deluge-web                      2.0.3          deluge-web_2.0.3-1build1_all.deb                         270209047829b84a674ad71f52ff2bb1        
@@ -145,6 +149,7 @@ bionic          amd64         deluge                      deluge                
 bionic          arm64         deluge                      deluge                          2.0.3          deluge_2.0.3-1build1_all.deb                             6e13514f5882d8ffc7b4abae391e4ca5        
 bionic          armhf         deluge                      deluge                          2.0.3          deluge_2.0.3-1build1_all.deb                             6e13514f5882d8ffc7b4abae391e4ca5        
 buster          arm64         deluge                      deluge                          2.0.3          deluge_2.0.3-1build1_all.deb                             ffdd2d079edf2bee4e3a06ec6b3f4074        
+focal           amd64         deluge                      deluge                          2.0.3          deluge_2.0.3-1build1_all.deb                             cc54745b01aab8f0fa8d575d394e09b3        
 stretch         amd64         deluge                      deluge                          2.0.3          deluge_2.0.3-1build1_all.deb                             9c1d091340803d64b33e91e7e0e7ae4a        
 stretch         arm64         deluge                      deluge                          2.0.3          deluge_2.0.3-1build1_all.deb                             b3f96937dd2d6f2cdedcd9582e7b999f        
 stretch         armhf         deluge                      deluge                          2.0.3          deluge_2.0.3-1build1_all.deb                             9c1d091340803d64b33e91e7e0e7ae4a        
@@ -169,6 +174,7 @@ bionic          amd64         deluge                      deluged               
 bionic          arm64         deluge                      deluged                         2.0.3          deluged_2.0.3-1build1_all.deb                            934f77ef0a98236c2249f8c9c74ab5b8        
 bionic          armhf         deluge                      deluged                         2.0.3          deluged_2.0.3-1build1_all.deb                            934f77ef0a98236c2249f8c9c74ab5b8        
 buster          arm64         deluge                      deluged                         2.0.3          deluged_2.0.3-1build1_all.deb                            63a3912b7a5a3f19d0d5058ad70a5928        
+focal           amd64         deluge                      deluged                         2.0.3          deluged_2.0.3-1build1_all.deb                            934f77ef0a98236c2249f8c9c74ab5b8        
 stretch         amd64         deluge                      deluged                         2.0.3          deluged_2.0.3-1build1_all.deb                            b274c5f83628279119c466c89f2f6033        
 stretch         arm64         deluge                      deluged                         2.0.3          deluged_2.0.3-1build1_all.deb                            00130cc4d0a8a7f5fbc6875212d43634        
 stretch         armhf         deluge                      deluged                         2.0.3          deluged_2.0.3-1build1_all.deb                            b274c5f83628279119c466c89f2f6033        
@@ -177,6 +183,7 @@ xenial          arm64         deluge                      deluged               
 xenial          armhf         deluge                      deluged                         2.0.3          deluged_2.0.3-1build1_all.deb                            30a03b466d69f333c74936ecfc2a8c1b        
 bionic          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.4         libtorrent-dev_0.13.4-1build1_amd64.deb                  1f6b70d5689a9fa2fddbae3dc26dd16c        
 buster          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.4         libtorrent-dev_0.13.4-1build1_amd64.deb                  1f6b70d5689a9fa2fddbae3dc26dd16c        
+focal           amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.4         libtorrent-dev_0.13.4-1build1_amd64.deb                  1f6b70d5689a9fa2fddbae3dc26dd16c        
 jessie          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.4         libtorrent-dev_0.13.4-1build1_amd64.deb                  d1ccb7df7023735c27bbde1fdf4ffda9        
 stretch         amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.4         libtorrent-dev_0.13.4-1build1_amd64.deb                  024ba18909135b37c142da6d647b2b46        
 xenial          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.4         libtorrent-dev_0.13.4-1build1_amd64.deb                  846279a62d91c1129e64ee2bdc13f3e2        
@@ -191,6 +198,7 @@ stretch         armhf         libtorrent-rakshasa         libtorrent-dev        
 xenial          armhf         libtorrent-rakshasa         libtorrent-dev                  0.13.4         libtorrent-dev_0.13.4-1build1_armhf.deb                  78a383ca467eb7f3c1178adb715cf3c5        
 bionic          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.6         libtorrent-dev_0.13.6-1build1_amd64.deb                  42a636501ee1f034823bfd65786d6b1e        
 buster          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.6         libtorrent-dev_0.13.6-1build1_amd64.deb                  42a636501ee1f034823bfd65786d6b1e        
+focal           amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.6         libtorrent-dev_0.13.6-1build1_amd64.deb                  42a636501ee1f034823bfd65786d6b1e        
 jessie          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.6         libtorrent-dev_0.13.6-1build1_amd64.deb                  1bdf562eeccfaba8d452927f6e6d09bd        
 stretch         amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.6         libtorrent-dev_0.13.6-1build1_amd64.deb                  740060e20ea3f5f6af65b27be16e739d        
 xenial          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.6         libtorrent-dev_0.13.6-1build1_amd64.deb                  e0163d546bc1385eaf5b5a7313535207        
@@ -205,6 +213,7 @@ stretch         armhf         libtorrent-rakshasa         libtorrent-dev        
 xenial          armhf         libtorrent-rakshasa         libtorrent-dev                  0.13.6         libtorrent-dev_0.13.6-1build1_armhf.deb                  32455f13a3afb29bd3f01bc1ea9583e9        
 bionic          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.7         libtorrent-dev_0.13.7-1build1_amd64.deb                  8921a43d316a770e7fc37d3b0b72d5d6        
 buster          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.7         libtorrent-dev_0.13.7-1build1_amd64.deb                  d2cd44a9235f0257d8eb644674c297de        
+focal           amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.7         libtorrent-dev_0.13.7-1build1_amd64.deb                  d2cd44a9235f0257d8eb644674c297de        
 jessie          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.7         libtorrent-dev_0.13.7-1build1_amd64.deb                  3d921f416ecedbd473a4e5200bd00eef        
 stretch         amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.7         libtorrent-dev_0.13.7-1build1_amd64.deb                  9300025b849c140f761b79e47861a454        
 xenial          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.7         libtorrent-dev_0.13.7-1build1_amd64.deb                  360f5550ed507b3c44fa87c79ad0d86a        
@@ -219,6 +228,7 @@ stretch         armhf         libtorrent-rakshasa         libtorrent-dev        
 xenial          armhf         libtorrent-rakshasa         libtorrent-dev                  0.13.7         libtorrent-dev_0.13.7-1build1_armhf.deb                  e7e552de720f5c49038c0e2238b11058        
 bionic          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.8         libtorrent-dev_0.13.8-1build1_amd64.deb                  b760e5224784dd5729d61c8436c719d4        
 buster          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.8         libtorrent-dev_0.13.8-1build1_amd64.deb                  b760e5224784dd5729d61c8436c719d4        
+focal           amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.8         libtorrent-dev_0.13.8-1build1_amd64.deb                  b760e5224784dd5729d61c8436c719d4        
 jessie          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.8         libtorrent-dev_0.13.8-1build1_amd64.deb                  db1c3a3302a652dc9751da53100edad8        
 stretch         amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.8         libtorrent-dev_0.13.8-1build1_amd64.deb                  58270e3976c3a3d63aea91a290256af2        
 xenial          amd64         libtorrent-rakshasa         libtorrent-dev                  0.13.8         libtorrent-dev_0.13.8-1build1_amd64.deb                  ba20c14e522fb5ae542b5589dc8912ae        
@@ -246,6 +256,7 @@ stretch         armhf         libtorrent-rasterbar        libtorrent-rasterbar-d
 xenial          armhf         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.13         libtorrent-rasterbar-dev_1.1.13-1build1_armhf.deb        fafbba57eaf52c04b5cf751c8af30454        
 bionic          amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14         libtorrent-rasterbar-dev_1.1.14-1build1_amd64.deb        458047bb40401dd149df3217bdc67a51        
 buster          amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14         libtorrent-rasterbar-dev_1.1.14-1build1_amd64.deb        a9f814eb0c15299b028521b02a7bb70e        
+focal           amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14         libtorrent-rasterbar-dev_1.1.14-1build1_amd64.deb        8efedcc5b67d0a24a793e984fe36b30d        
 jessie          amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14         libtorrent-rasterbar-dev_1.1.14-1build1_amd64.deb        753870255976e37c4182d5a00b0749fe        
 stretch         amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14         libtorrent-rasterbar-dev_1.1.14-1build1_amd64.deb        b14b9101873222bd0f1f4a6fc9ac409a        
 xenial          amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14         libtorrent-rasterbar-dev_1.1.14-1build1_amd64.deb        155643b5f7c236b2c753c37355447e02        
@@ -258,6 +269,13 @@ buster          armhf         libtorrent-rasterbar        libtorrent-rasterbar-d
 jessie          armhf         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14         libtorrent-rasterbar-dev_1.1.14-1build1_armhf.deb        21b80e7dc57fe12a6e4f9a9c85b969a7        
 stretch         armhf         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14         libtorrent-rasterbar-dev_1.1.14-1build1_armhf.deb        9212c6d6cf91740b9d2dcc18de26c480        
 xenial          armhf         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14         libtorrent-rasterbar-dev_1.1.14-1build1_armhf.deb        dc5e689e3a19b4b0f521b642e810c9cf        
+bionic          amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.2.7          libtorrent-rasterbar-dev_1.2.7-1build1_amd64.deb         e02f5c25dd4b0fa392731ab99e55d075        
+buster          amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.2.7          libtorrent-rasterbar-dev_1.2.7-1build1_amd64.deb         46fd613899cedc9198fb4f8e2c154cc5        
+focal           amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.2.7          libtorrent-rasterbar-dev_1.2.7-1build1_amd64.deb         b9112abe8aae84333735a8887485f6db        
+stretch         amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.2.7          libtorrent-rasterbar-dev_1.2.7-1build1_amd64.deb         aad2a34d89711b49ebbdc474d9afb0c1        
+xenial          amd64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.2.7          libtorrent-rasterbar-dev_1.2.7-1build1_amd64.deb         6a55ddf0b019b7c9d03829e5117287d9        
+buster          arm64         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.2.7          libtorrent-rasterbar-dev_1.2.7-1build1_arm64.deb         d20faf145c8b25227f67b0f4a23cf4db        
+buster          armhf         libtorrent-rasterbar        libtorrent-rasterbar-dev        1.2.7          libtorrent-rasterbar-dev_1.2.7-1build1_armhf.deb         3f95e66360f8b173d079f0ec11ae02d1        
 bionic          amd64         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.13         libtorrent-rasterbar9_1.1.13-1build1_amd64.deb           10a8757bde3e6494d9f08469dcc24864        
 buster          amd64         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.13         libtorrent-rasterbar9_1.1.13-1build1_amd64.deb           1442955a5dca12d24956ee644bb2ac66        
 jessie          amd64         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.13         libtorrent-rasterbar9_1.1.13-1build1_amd64.deb           1442955a5dca12d24956ee644bb2ac66        
@@ -273,6 +291,7 @@ stretch         armhf         libtorrent-rasterbar        libtorrent-rasterbar9 
 xenial          armhf         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.13         libtorrent-rasterbar9_1.1.13-1build1_armhf.deb           94aaff37648d99eeecff9227cf84668f        
 bionic          amd64         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.14         libtorrent-rasterbar9_1.1.14-1build1_amd64.deb           2cea9cd3066414c47ac8f29831c6e6e1        
 buster          amd64         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.14         libtorrent-rasterbar9_1.1.14-1build1_amd64.deb           f1e8ac02868a4f2cab74595f56903c4f        
+focal           amd64         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.14         libtorrent-rasterbar9_1.1.14-1build1_amd64.deb           ec15491a33dd0ddb86293f96d72c2824        
 jessie          amd64         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.14         libtorrent-rasterbar9_1.1.14-1build1_amd64.deb           6b905b76d6b307e97b894cee9f7269f5        
 stretch         amd64         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.14         libtorrent-rasterbar9_1.1.14-1build1_amd64.deb           7a21579539de2d94986da7d9d12a2a3c        
 xenial          amd64         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.14         libtorrent-rasterbar9_1.1.14-1build1_amd64.deb           4cf4dd5c951cc7dbe5aa03299429f320        
@@ -287,6 +306,7 @@ stretch         armhf         libtorrent-rasterbar        libtorrent-rasterbar9 
 xenial          armhf         libtorrent-rasterbar        libtorrent-rasterbar9           1.1.14         libtorrent-rasterbar9_1.1.14-1build1_armhf.deb           3664bdf12904885a1ab18334fec1ac4c        
 bionic          amd64         libtorrent-rakshasa         libtorrent18                    0.13.4         libtorrent18_0.13.4-1build1_amd64.deb                    78512e49bbd71f7b10cd623c15bd4dac        
 buster          amd64         libtorrent-rakshasa         libtorrent18                    0.13.4         libtorrent18_0.13.4-1build1_amd64.deb                    1b1a86992538d8df55edc51f97af594b        
+focal           amd64         libtorrent-rakshasa         libtorrent18                    0.13.4         libtorrent18_0.13.4-1build1_amd64.deb                    9a2db391c87ca46c52f028892b41c907        
 jessie          amd64         libtorrent-rakshasa         libtorrent18                    0.13.4         libtorrent18_0.13.4-1build1_amd64.deb                    2c331561b7e834bbf4fffe73bcdf4fd6        
 stretch         amd64         libtorrent-rakshasa         libtorrent18                    0.13.4         libtorrent18_0.13.4-1build1_amd64.deb                    65441ae8b81bf69f586efdcc892ac86d        
 xenial          amd64         libtorrent-rakshasa         libtorrent18                    0.13.4         libtorrent18_0.13.4-1build1_amd64.deb                    9d27c9a2bef4ce4efc582ebb1086c265        
@@ -301,6 +321,7 @@ stretch         armhf         libtorrent-rakshasa         libtorrent18          
 xenial          armhf         libtorrent-rakshasa         libtorrent18                    0.13.4         libtorrent18_0.13.4-1build1_armhf.deb                    4246bb9623bc60da51fa55726d27f693        
 bionic          amd64         libtorrent-rakshasa         libtorrent19                    0.13.6         libtorrent19_0.13.6-1build1_amd64.deb                    d76d84786fd4941f5548d8c442ca81a2        
 buster          amd64         libtorrent-rakshasa         libtorrent19                    0.13.6         libtorrent19_0.13.6-1build1_amd64.deb                    c1d6dad294a75a051142fc536504dd39        
+focal           amd64         libtorrent-rakshasa         libtorrent19                    0.13.6         libtorrent19_0.13.6-1build1_amd64.deb                    a303a977d796747ff2d0a1fcd3f6807f        
 jessie          amd64         libtorrent-rakshasa         libtorrent19                    0.13.6         libtorrent19_0.13.6-1build1_amd64.deb                    2fa36e50f4e3db282da2b72d2102c00e        
 stretch         amd64         libtorrent-rakshasa         libtorrent19                    0.13.6         libtorrent19_0.13.6-1build1_amd64.deb                    fe43972c744dbd23577828622153590e        
 xenial          amd64         libtorrent-rakshasa         libtorrent19                    0.13.6         libtorrent19_0.13.6-1build1_amd64.deb                    e08cc245b06392d8915f3a9907a22960        
@@ -315,6 +336,7 @@ stretch         armhf         libtorrent-rakshasa         libtorrent19          
 xenial          armhf         libtorrent-rakshasa         libtorrent19                    0.13.6         libtorrent19_0.13.6-1build1_armhf.deb                    b7af589d312816d4f922fe7dde7bcb20        
 bionic          amd64         libtorrent-rakshasa         libtorrent20                    0.13.7         libtorrent20_0.13.7-1build1_amd64.deb                    297e6d3c955700ac4265ce63451f5a84        
 buster          amd64         libtorrent-rakshasa         libtorrent20                    0.13.7         libtorrent20_0.13.7-1build1_amd64.deb                    9d235caf00f4516aeb13ff7f77f1d710        
+focal           amd64         libtorrent-rakshasa         libtorrent20                    0.13.7         libtorrent20_0.13.7-1build1_amd64.deb                    64f76632d00bff5a01260ac8135b6103        
 jessie          amd64         libtorrent-rakshasa         libtorrent20                    0.13.7         libtorrent20_0.13.7-1build1_amd64.deb                    d7e97c705c086861d3a7ff36e85846e5        
 stretch         amd64         libtorrent-rakshasa         libtorrent20                    0.13.7         libtorrent20_0.13.7-1build1_amd64.deb                    290016679bb8419af464dfc5bec455fe        
 xenial          amd64         libtorrent-rakshasa         libtorrent20                    0.13.7         libtorrent20_0.13.7-1build1_amd64.deb                    f8ae22edbcafe299c9269d4a29470ec7        
@@ -329,6 +351,7 @@ stretch         armhf         libtorrent-rakshasa         libtorrent20          
 xenial          armhf         libtorrent-rakshasa         libtorrent20                    0.13.7         libtorrent20_0.13.7-1build1_armhf.deb                    5a4b70afe0d6864da9045630bc539a5f        
 bionic          amd64         libtorrent-rakshasa         libtorrent21                    0.13.8         libtorrent21_0.13.8-1build1_amd64.deb                    b44ed4347f837c8d25c3841cbdcb3ff5        
 buster          amd64         libtorrent-rakshasa         libtorrent21                    0.13.8         libtorrent21_0.13.8-1build1_amd64.deb                    1669e1fed4f680ba7c353f009a2825d2        
+focal           amd64         libtorrent-rakshasa         libtorrent21                    0.13.8         libtorrent21_0.13.8-1build1_amd64.deb                    52de5b7f5e7b04793c08f2e4d976809a        
 jessie          amd64         libtorrent-rakshasa         libtorrent21                    0.13.8         libtorrent21_0.13.8-1build1_amd64.deb                    aba216206c4ae6d0185c75a43da798cd        
 stretch         amd64         libtorrent-rakshasa         libtorrent21                    0.13.8         libtorrent21_0.13.8-1build1_amd64.deb                    f7dddc6ef3dbe82ef3f4500f45c95c97        
 xenial          amd64         libtorrent-rakshasa         libtorrent21                    0.13.8         libtorrent21_0.13.8-1build1_amd64.deb                    9403cb98bd9836bb2df29b7dfe3916e7        
@@ -383,18 +406,26 @@ stretch         armhf         libtorrent-rasterbar        python3-libtorrent    
 xenial          armhf         libtorrent-rasterbar        python3-libtorrent              1.1.13         python3-libtorrent_1.1.13-1build1_armhf.deb              56c39cb9a70a6282926b245f389ab07b        
 bionic          amd64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_amd64.deb              0b3561f316dae754384c4c4e91dde787        
 buster          amd64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_amd64.deb              1622472638ff79bc2cab2132e7092a27        
+focal           amd64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_amd64.deb              44b8de07d02d5e3482e355b51d19755f        
 jessie          amd64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_amd64.deb              af8c4129d34255b4700dca9b403df305        
 stretch         amd64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_amd64.deb              cd039aa9aa6c5c304c08852cae02b8ae        
 xenial          amd64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_amd64.deb              ba42c6d5453263593a6e505ccdb283e8        
 bionic          arm64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_arm64.deb              504f4feec9ed01f6024bed966917e6da        
-buster          arm64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_arm64.deb              8c79901e412d74a70fff5429b955ee92        
+buster          arm64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_arm64.deb              1d00e4cce44d85edceeb08fed58148f8        
 stretch         arm64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_arm64.deb              4a66803db8113a0539ced7e0f3a3ef54        
 xenial          arm64         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_arm64.deb              e6ed02389e9ecc140257010915273909        
 bionic          armhf         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_armhf.deb              6b68c202ef57f8b37154bdf5fc273d4c        
-buster          armhf         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_armhf.deb              4657587ba6cf6ffcc8705a811104d98d        
+buster          armhf         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_armhf.deb              9387fb1c275a68e6a88943807ffcb8f3        
 jessie          armhf         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_armhf.deb              0b9db95f936f69402d3d10c1be7476d7        
 stretch         armhf         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_armhf.deb              c7316ec1d737849eb2fa4ecad1bda902        
 xenial          armhf         libtorrent-rasterbar        python3-libtorrent              1.1.14         python3-libtorrent_1.1.14-1build1_armhf.deb              6f2cc959059f5139f948bb69f4cec3c3        
+bionic          amd64         libtorrent-rasterbar        python3-libtorrent              1.2.7          python3-libtorrent_1.2.7-1build1_amd64.deb               deea4f8a1db97aeab2a3e03030f5798f        
+buster          amd64         libtorrent-rasterbar        python3-libtorrent              1.2.7          python3-libtorrent_1.2.7-1build1_amd64.deb               3a1c349c002f25a1d0d6cf1229d40ad2        
+focal           amd64         libtorrent-rasterbar        python3-libtorrent              1.2.7          python3-libtorrent_1.2.7-1build1_amd64.deb               8865c0ac2db62e80361eac0affd8dea8        
+stretch         amd64         libtorrent-rasterbar        python3-libtorrent              1.2.7          python3-libtorrent_1.2.7-1build1_amd64.deb               e0d56e09dc94ecc69cbafb1ac09ec3f9        
+xenial          amd64         libtorrent-rasterbar        python3-libtorrent              1.2.7          python3-libtorrent_1.2.7-1build1_amd64.deb               3cb9f3c365580f6383529b28d55faa94        
+buster          arm64         libtorrent-rasterbar        python3-libtorrent              1.2.7          python3-libtorrent_1.2.7-1build1_arm64.deb               a7d97d51cf9c034116102737ca130e00        
+buster          armhf         libtorrent-rasterbar        python3-libtorrent              1.2.7          python3-libtorrent_1.2.7-1build1_armhf.deb               c48ec636ed9624baa8883aec1f8dfcd0        
 bionic          amd64         qbittorrent                 qbittorrent-nox                 4.1.7          qbittorrent-nox_4.1.7-libt1.1-1build1_amd64.deb          c1985345d8d6e1137de18df1207409e7        
 buster          amd64         qbittorrent                 qbittorrent-nox                 4.1.7          qbittorrent-nox_4.1.7-libt1.1-1build1_amd64.deb          74b0ad97c4ec85d3bb75fd99feb4a833        
 stretch         amd64         qbittorrent                 qbittorrent-nox                 4.1.7          qbittorrent-nox_4.1.7-libt1.1-1build1_amd64.deb          1418a1374176c827d103760d222fd692        
@@ -433,6 +464,7 @@ stretch         armhf         qbittorrent                 qbittorrent-nox       
 xenial          armhf         qbittorrent                 qbittorrent-nox                 4.1.9          qbittorrent-nox_4.1.9-libt1.1-1build1_armhf.deb          41db13bc1c30cec54b75ae5aead1a7ea        
 bionic          amd64         qbittorrent                 qbittorrent-nox                 4.1.9.1        qbittorrent-nox_4.1.9.1-libt1.1-1build1_amd64.deb        9180684ddaceaefda3f0bf672336ffcb        
 buster          amd64         qbittorrent                 qbittorrent-nox                 4.1.9.1        qbittorrent-nox_4.1.9.1-libt1.1-1build1_amd64.deb        4ad8b581c57265077e6e349ebca5483e        
+focal           amd64         qbittorrent                 qbittorrent-nox                 4.1.9.1        qbittorrent-nox_4.1.9.1-libt1.1-1build1_amd64.deb        5006041ca7b555c932cddeefdcd4e9c0        
 stretch         amd64         qbittorrent                 qbittorrent-nox                 4.1.9.1        qbittorrent-nox_4.1.9.1-libt1.1-1build1_amd64.deb        becdc2aeeacebd39b1fe710b2eedc4aa        
 xenial          amd64         qbittorrent                 qbittorrent-nox                 4.1.9.1        qbittorrent-nox_4.1.9.1-libt1.1-1build1_amd64.deb        15ac4bce260702fa842935e529f40a57        
 bionic          arm64         qbittorrent                 qbittorrent-nox                 4.1.9.1        qbittorrent-nox_4.1.9.1-libt1.1-1build1_arm64.deb        b3d3673a1ef2951870f82df8abedf8b0        
@@ -445,6 +477,7 @@ stretch         armhf         qbittorrent                 qbittorrent-nox       
 xenial          armhf         qbittorrent                 qbittorrent-nox                 4.1.9.1        qbittorrent-nox_4.1.9.1-libt1.1-1build1_armhf.deb        87cdd34e7e707d4af9af819b95a8db20        
 bionic          amd64         qbittorrent                 qbittorrent-nox                 4.1.9.2        qbittorrent-nox_4.1.9.2-libt1.1-1build1_amd64.deb        728d7d21dafa2aa496b9a99db7cda830        
 buster          amd64         qbittorrent                 qbittorrent-nox                 4.1.9.2        qbittorrent-nox_4.1.9.2-libt1.1-1build1_amd64.deb        0531027ed6e7b75c3f4c852c96a8534a        
+focal           amd64         qbittorrent                 qbittorrent-nox                 4.1.9.2        qbittorrent-nox_4.1.9.2-libt1.1-1build1_amd64.deb        143b848d2f5318920aef00a2f47241de        
 stretch         amd64         qbittorrent                 qbittorrent-nox                 4.1.9.2        qbittorrent-nox_4.1.9.2-libt1.1-1build1_amd64.deb        cf9084cbc59fb20abb130609613c3d9f        
 xenial          amd64         qbittorrent                 qbittorrent-nox                 4.1.9.2        qbittorrent-nox_4.1.9.2-libt1.1-1build1_amd64.deb        c2b102e62437e633b1726fd6a239bf4b        
 bionic          arm64         qbittorrent                 qbittorrent-nox                 4.1.9.2        qbittorrent-nox_4.1.9.2-libt1.1-1build1_arm64.deb        c3cd746bb8cc2640866b752d956fcfe7        
@@ -517,6 +550,7 @@ stretch         armhf         qbittorrent                 qbittorrent-nox       
 xenial          armhf         qbittorrent                 qbittorrent-nox                 4.2.4          qbittorrent-nox_4.2.4-libt1.1-1build1_armhf.deb          d132eea58fc54bb6f5cb8b5e60831622        
 bionic          amd64         qbittorrent                 qbittorrent-nox                 4.2.5          qbittorrent-nox_4.2.5-libt1.1-1build1_amd64.deb          d024a0c212b5c5b5260900ea5581f1ae        
 buster          amd64         qbittorrent                 qbittorrent-nox                 4.2.5          qbittorrent-nox_4.2.5-libt1.1-1build1_amd64.deb          a7f8d05c5a52d0218b97056f07a23efa        
+focal           amd64         qbittorrent                 qbittorrent-nox                 4.2.5          qbittorrent-nox_4.2.5-libt1.1-1build1_amd64.deb          1315472a6cd1ca6aca2a8a9e112f4e0e        
 stretch         amd64         qbittorrent                 qbittorrent-nox                 4.2.5          qbittorrent-nox_4.2.5-libt1.1-1build1_amd64.deb          d84fb0e8a266a0cce492c2dbfdc36254        
 xenial          amd64         qbittorrent                 qbittorrent-nox                 4.2.5          qbittorrent-nox_4.2.5-libt1.1-1build1_amd64.deb          228173e36bbfcce6459ed31c3c5cc53d        
 bionic          arm64         qbittorrent                 qbittorrent-nox                 4.2.5          qbittorrent-nox_4.2.5-libt1.1-1build1_arm64.deb          5858b95edb14f0a681b2f5d90a9dac3b        
@@ -565,6 +599,7 @@ stretch         armhf         qbittorrent                 qbittorrent           
 xenial          armhf         qbittorrent                 qbittorrent                     4.1.9          qbittorrent_4.1.9-libt1.1-1build1_armhf.deb              d1bf10b7c45c2e7603277ba20cbb113f        
 bionic          amd64         qbittorrent                 qbittorrent                     4.1.9.1        qbittorrent_4.1.9.1-libt1.1-1build1_amd64.deb            3fff2b76b4ad9787fdda00f987b7808c        
 buster          amd64         qbittorrent                 qbittorrent                     4.1.9.1        qbittorrent_4.1.9.1-libt1.1-1build1_amd64.deb            dc82189009ae0a74bde4975b925e4f1b        
+focal           amd64         qbittorrent                 qbittorrent                     4.1.9.1        qbittorrent_4.1.9.1-libt1.1-1build1_amd64.deb            002f05c231120eb717f491cd41a1cc72        
 stretch         amd64         qbittorrent                 qbittorrent                     4.1.9.1        qbittorrent_4.1.9.1-libt1.1-1build1_amd64.deb            af172f21eae702b5693d424c9fc4b02a        
 xenial          amd64         qbittorrent                 qbittorrent                     4.1.9.1        qbittorrent_4.1.9.1-libt1.1-1build1_amd64.deb            3ad0d02a8cc95b23280d59c08b308c92        
 bionic          arm64         qbittorrent                 qbittorrent                     4.1.9.1        qbittorrent_4.1.9.1-libt1.1-1build1_arm64.deb            7314e3dd39fef9e9f4e380fbe11b1d3d        
@@ -577,6 +612,7 @@ stretch         armhf         qbittorrent                 qbittorrent           
 xenial          armhf         qbittorrent                 qbittorrent                     4.1.9.1        qbittorrent_4.1.9.1-libt1.1-1build1_armhf.deb            2fc9dd2ec552538c376bd99582989a73        
 bionic          amd64         qbittorrent                 qbittorrent                     4.1.9.2        qbittorrent_4.1.9.2-libt1.1-1build1_amd64.deb            9cc779cfc0688900329464758d97b612        
 buster          amd64         qbittorrent                 qbittorrent                     4.1.9.2        qbittorrent_4.1.9.2-libt1.1-1build1_amd64.deb            5c13486eac492c22a365ef8ec809de1a        
+focal           amd64         qbittorrent                 qbittorrent                     4.1.9.2        qbittorrent_4.1.9.2-libt1.1-1build1_amd64.deb            00181cf1b7ac72e48bfd3ea6e1b19a43        
 stretch         amd64         qbittorrent                 qbittorrent                     4.1.9.2        qbittorrent_4.1.9.2-libt1.1-1build1_amd64.deb            50aca28ca3e800da0b95fbf4098f4369        
 xenial          amd64         qbittorrent                 qbittorrent                     4.1.9.2        qbittorrent_4.1.9.2-libt1.1-1build1_amd64.deb            25444e15de56c866a050433bda4003fc        
 bionic          arm64         qbittorrent                 qbittorrent                     4.1.9.2        qbittorrent_4.1.9.2-libt1.1-1build1_arm64.deb            cf7c5a5eac9970210a1e6b2e345b711b        
@@ -649,6 +685,7 @@ stretch         armhf         qbittorrent                 qbittorrent           
 xenial          armhf         qbittorrent                 qbittorrent                     4.2.4          qbittorrent_4.2.4-libt1.1-1build1_armhf.deb              ce3d7385dd295ae7b971f66cd973a42f        
 bionic          amd64         qbittorrent                 qbittorrent                     4.2.5          qbittorrent_4.2.5-libt1.1-1build1_amd64.deb              9f01a7beefbcad7fa8f7ff318f20642f        
 buster          amd64         qbittorrent                 qbittorrent                     4.2.5          qbittorrent_4.2.5-libt1.1-1build1_amd64.deb              3f8393107bdb3c1c9ed98feb9d5aed5a        
+focal           amd64         qbittorrent                 qbittorrent                     4.2.5          qbittorrent_4.2.5-libt1.1-1build1_amd64.deb              b2452a927a91ea8982e3ab9ad5917ead        
 stretch         amd64         qbittorrent                 qbittorrent                     4.2.5          qbittorrent_4.2.5-libt1.1-1build1_amd64.deb              c3e46c863b2bb372a26959637615683f        
 xenial          amd64         qbittorrent                 qbittorrent                     4.2.5          qbittorrent_4.2.5-libt1.1-1build1_amd64.deb              809269341a9122f4d2576fe6099d4779        
 bionic          arm64         qbittorrent                 qbittorrent                     4.2.5          qbittorrent_4.2.5-libt1.1-1build1_arm64.deb              50e5aa3e5a257baf0ea6ed13e38350ab        
@@ -691,6 +728,7 @@ stretch         armhf         qt5                         qt512xmlpatterns      
 xenial          armhf         qt5                         qt512xmlpatterns                5.12.6         qt512xmlpatterns_5.12.6-1basyskom1_armhf.deb             0d9c594802d6658bd4082afbed1c2c70        
 bionic          amd64         rtorrent                    rtorrent                        0.9.4          rtorrent_0.9.4-1build1_amd64.deb                         7fd5f8b1523403d872fe525f63bfbd1a        
 buster          amd64         rtorrent                    rtorrent                        0.9.4          rtorrent_0.9.4-1build1_amd64.deb                         5271b2019cc7ed333abb2518487f3d98        
+focal           amd64         rtorrent                    rtorrent                        0.9.4          rtorrent_0.9.4-1build1_amd64.deb                         51332a5fe92633a2ec8d79f8aa56110f        
 jessie          amd64         rtorrent                    rtorrent                        0.9.4          rtorrent_0.9.4-1build1_amd64.deb                         ca4d22413b6016282d36dbeac0143d49        
 stretch         amd64         rtorrent                    rtorrent                        0.9.4          rtorrent_0.9.4-1build1_amd64.deb                         41bb8b7e9348b6740a71cd17dd7b94c1        
 xenial          amd64         rtorrent                    rtorrent                        0.9.4          rtorrent_0.9.4-1build1_amd64.deb                         8e79d82da4ad0ffd4bf2de19425af0d3        
@@ -705,6 +743,7 @@ stretch         armhf         rtorrent                    rtorrent              
 xenial          armhf         rtorrent                    rtorrent                        0.9.4          rtorrent_0.9.4-1build1_armhf.deb                         d564a0e81826ed852d3b12b1db53dfc9        
 bionic          amd64         rtorrent                    rtorrent                        0.9.6          rtorrent_0.9.6-1build1_amd64.deb                         c03517ccd50e47d0ae476a245443598d        
 buster          amd64         rtorrent                    rtorrent                        0.9.6          rtorrent_0.9.6-1build1_amd64.deb                         92bc6211dc9035475d5b7cbd39c4bbf2        
+focal           amd64         rtorrent                    rtorrent                        0.9.6          rtorrent_0.9.6-1build1_amd64.deb                         957f3aee2cd7f295c051f4d5d294a374        
 jessie          amd64         rtorrent                    rtorrent                        0.9.6          rtorrent_0.9.6-1build1_amd64.deb                         7268de177a90e36c1271530d20d7949b        
 stretch         amd64         rtorrent                    rtorrent                        0.9.6          rtorrent_0.9.6-1build1_amd64.deb                         ff4117c58e039d25eb817950aea45064        
 xenial          amd64         rtorrent                    rtorrent                        0.9.6          rtorrent_0.9.6-1build1_amd64.deb                         45bd0180e0ad1c80969dbac4c7e6f757        
@@ -719,6 +758,7 @@ stretch         armhf         rtorrent                    rtorrent              
 xenial          armhf         rtorrent                    rtorrent                        0.9.6          rtorrent_0.9.6-1build1_armhf.deb                         a189495d1c920048148631ee379db465        
 bionic          amd64         rtorrent                    rtorrent                        0.9.7          rtorrent_0.9.7-1build1_amd64.deb                         3c1facb5b4c43d455b71327d03662d44        
 buster          amd64         rtorrent                    rtorrent                        0.9.7          rtorrent_0.9.7-1build1_amd64.deb                         96aa62abfb7e229ec65fa5075c4f28bd        
+focal           amd64         rtorrent                    rtorrent                        0.9.7          rtorrent_0.9.7-1build1_amd64.deb                         b3903a0ce5bd1d25a794d665e716aa87        
 jessie          amd64         rtorrent                    rtorrent                        0.9.7          rtorrent_0.9.7-1build1_amd64.deb                         734246621a64ea95f3f617b244215144        
 stretch         amd64         rtorrent                    rtorrent                        0.9.7          rtorrent_0.9.7-1build1_amd64.deb                         512c961bd0c941f35fb1ddab26baf8e5        
 xenial          amd64         rtorrent                    rtorrent                        0.9.7          rtorrent_0.9.7-1build1_amd64.deb                         d99fc666620a9610f4d33ef73e751056        
@@ -733,6 +773,7 @@ stretch         armhf         rtorrent                    rtorrent              
 xenial          armhf         rtorrent                    rtorrent                        0.9.7          rtorrent_0.9.7-1build1_armhf.deb                         b1d63f738aefcf789f2b25d917057d9a        
 bionic          amd64         rtorrent                    rtorrent                        0.9.8          rtorrent_0.9.8-1build1_amd64.deb                         7dd6f5a421c879caf640503d9b42096a        
 buster          amd64         rtorrent                    rtorrent                        0.9.8          rtorrent_0.9.8-1build1_amd64.deb                         d568fbb66c7ccc6aaba8d661873bd60e        
+focal           amd64         rtorrent                    rtorrent                        0.9.8          rtorrent_0.9.8-1build1_amd64.deb                         72e57f54bcc6c438913d10d5a576b0f3        
 jessie          amd64         rtorrent                    rtorrent                        0.9.8          rtorrent_0.9.8-1build1_amd64.deb                         03ee6b8091f67895b9c094925886b98d        
 stretch         amd64         rtorrent                    rtorrent                        0.9.8          rtorrent_0.9.8-1build1_amd64.deb                         0f306f7274565acdf91e7fd00a8bf1ba        
 xenial          amd64         rtorrent                    rtorrent                        0.9.8          rtorrent_0.9.8-1build1_amd64.deb                         b602a20b76d38a5267d622d97ff88239        
@@ -747,6 +788,7 @@ stretch         armhf         rtorrent                    rtorrent              
 xenial          armhf         rtorrent                    rtorrent                        0.9.8          rtorrent_0.9.8-1build1_armhf.deb                         3c9e22670188a6254373f17e5bf82ae5        
 bionic          amd64         transmission                transmission-cli                2.94           transmission-cli_2.94-1mod1_amd64.deb                    0b66d3715a435f773c56403298cf7d5d        
 buster          amd64         transmission                transmission-cli                2.94           transmission-cli_2.94-1mod1_amd64.deb                    e1dbfbe5e386a0c7608ef4bf7000a67d        
+focal           amd64         transmission                transmission-cli                2.94           transmission-cli_2.94-1mod1_amd64.deb                    f640cffc5fc2bbe24a5a86ad08ad6f15        
 jessie          amd64         transmission                transmission-cli                2.94           transmission-cli_2.94-1mod1_amd64.deb                    8af7318702f88cf94f6a7ea76228cc6a        
 stretch         amd64         transmission                transmission-cli                2.94           transmission-cli_2.94-1mod1_amd64.deb                    9b1b6997718a67d7b48b3e9e4aaca095        
 xenial          amd64         transmission                transmission-cli                2.94           transmission-cli_2.94-1mod1_amd64.deb                    36424718eea442023e2d3cf072d9c707        
@@ -765,6 +807,7 @@ bionic          armhf         transmission                transmission-common   
 buster          amd64         transmission                transmission-common             2.94           transmission-common_2.94-1mod1_all.deb                   e6cd76fdc1f2c6bd5c052c1381a003d2        
 buster          arm64         transmission                transmission-common             2.94           transmission-common_2.94-1mod1_all.deb                   e6cd76fdc1f2c6bd5c052c1381a003d2        
 buster          armhf         transmission                transmission-common             2.94           transmission-common_2.94-1mod1_all.deb                   e6cd76fdc1f2c6bd5c052c1381a003d2        
+focal           amd64         transmission                transmission-common             2.94           transmission-common_2.94-1mod1_all.deb                   e6cd76fdc1f2c6bd5c052c1381a003d2        
 jessie          amd64         transmission                transmission-common             2.94           transmission-common_2.94-1mod1_all.deb                   535d0c05fd0c3d52fa53294bca454750        
 jessie          armhf         transmission                transmission-common             2.94           transmission-common_2.94-1mod1_all.deb                   301914acd22171740eb4fa4f9f2494df        
 stretch         amd64         transmission                transmission-common             2.94           transmission-common_2.94-1mod1_all.deb                   ddc30cd7ac406e008dc01850946944ef        
@@ -775,6 +818,7 @@ xenial          arm64         transmission                transmission-common   
 xenial          armhf         transmission                transmission-common             2.94           transmission-common_2.94-1mod1_all.deb                   5e4a37170f3af4e5c30eb9d066279fea        
 bionic          amd64         transmission                transmission-daemon             2.94           transmission-daemon_2.94-1mod1_amd64.deb                 f75d5ad1f9f7cbc191fdca2dcf8c8439        
 buster          amd64         transmission                transmission-daemon             2.94           transmission-daemon_2.94-1mod1_amd64.deb                 47f479863a5ee4e818888300167a6ed6        
+focal           amd64         transmission                transmission-daemon             2.94           transmission-daemon_2.94-1mod1_amd64.deb                 3e635e201d83351874de96df830a9e21        
 jessie          amd64         transmission                transmission-daemon             2.94           transmission-daemon_2.94-1mod1_amd64.deb                 c70e74b045bb363051a80665608daf4e        
 stretch         amd64         transmission                transmission-daemon             2.94           transmission-daemon_2.94-1mod1_amd64.deb                 b06757cdf661e04882178996eaddb7eb        
 xenial          amd64         transmission                transmission-daemon             2.94           transmission-daemon_2.94-1mod1_amd64.deb                 20de06c31eed9c4d311263cb813d6e7b        
@@ -789,6 +833,7 @@ stretch         armhf         transmission                transmission-daemon   
 xenial          armhf         transmission                transmission-daemon             2.94           transmission-daemon_2.94-1mod1_armhf.deb                 fae2d12b27f7b22e81b392f11ea10a6f        
 bionic          amd64         transmission                transmission-gtk                2.94           transmission-gtk_2.94-1mod1_amd64.deb                    e7ab9c8bb4106968b2ef4d67fd236bcd        
 buster          amd64         transmission                transmission-gtk                2.94           transmission-gtk_2.94-1mod1_amd64.deb                    a57cddf597c7f00eee3996c8479b0819        
+focal           amd64         transmission                transmission-gtk                2.94           transmission-gtk_2.94-1mod1_amd64.deb                    4183891c550f09d2c581ea0e54515a83        
 jessie          amd64         transmission                transmission-gtk                2.94           transmission-gtk_2.94-1mod1_amd64.deb                    21ea663a1819d925c3913e541807da00        
 stretch         amd64         transmission                transmission-gtk                2.94           transmission-gtk_2.94-1mod1_amd64.deb                    0471bf4039b01a4ab32cec8617f619c4        
 xenial          amd64         transmission                transmission-gtk                2.94           transmission-gtk_2.94-1mod1_amd64.deb                    c98395b1bc5c7f295a455f5576bcfcc2        
@@ -803,6 +848,7 @@ stretch         armhf         transmission                transmission-gtk      
 xenial          armhf         transmission                transmission-gtk                2.94           transmission-gtk_2.94-1mod1_armhf.deb                    55726bbb20691b84480dac1702dc654c        
 bionic          amd64         transmission                transmission-qt                 2.94           transmission-qt_2.94-1mod1_amd64.deb                     1ef87732276c40c3dab7455a7a9e89f2        
 buster          amd64         transmission                transmission-qt                 2.94           transmission-qt_2.94-1mod1_amd64.deb                     97b3cc32ea7e952fa8e3c3a3f3b64db6        
+focal           amd64         transmission                transmission-qt                 2.94           transmission-qt_2.94-1mod1_amd64.deb                     49c064c6938f781c9ebaf6fa0f845d46        
 jessie          amd64         transmission                transmission-qt                 2.94           transmission-qt_2.94-1mod1_amd64.deb                     cac4029cb613d9954d369c8fc024c57f        
 stretch         amd64         transmission                transmission-qt                 2.94           transmission-qt_2.94-1mod1_amd64.deb                     5a6b8f53eb3b793308fa9c3a18ce414a        
 xenial          amd64         transmission                transmission-qt                 2.94           transmission-qt_2.94-1mod1_amd64.deb                     893f093a229dcf77ea94233b70af73e8        
@@ -821,6 +867,7 @@ bionic          armhf         transmission                transmission          
 buster          amd64         transmission                transmission                    2.94           transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134        
 buster          arm64         transmission                transmission                    2.94           transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134        
 buster          armhf         transmission                transmission                    2.94           transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134        
+focal           amd64         transmission                transmission                    2.94           transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134        
 jessie          amd64         transmission                transmission                    2.94           transmission_2.94-1mod1_all.deb                          87e4bfdab1b752d8c52b356c15878b3e        
 jessie          armhf         transmission                transmission                    2.94           transmission_2.94-1mod1_all.deb                          d241e876e6605717c7262955c6ab411f        
 stretch         amd64         transmission                transmission                    2.94           transmission_2.94-1mod1_all.deb                          2a7dcf9d0b8dba52811d516fa242ab4c        
